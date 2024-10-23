@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  - PhysicsObject
+  - ScreenShotCamera
+  - Pin
+  - Red Pin
+  - SimulatedObject
+  - PowerFill
+  - BackSpinImage
+  - BlueBallImage
+  - LavaBallImage
+  - ControlsPanel
+  - FirePoint
+  - BlueBallUI
+  - LavaBallUI
+  - Pin Parent
+  - BallMask
+  - StatsPanel
+  - ObjectivesPanel
+  - StartButton
+  - TryAgain
+  - NextThrow
+  - Replay
+  - CollectableStar
+  - StrikeStar
+  - AvoidStar
+  - ThrowText
+  - PinsCollected
+  - PinsDown
+  - Strike
+  - WaitingForPins
+  - GameWin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - SkyLight
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
